@@ -25,6 +25,7 @@ git status // to check file status
 git push origin master // to push changes
 
 login account
+
 enter username and password
 
 ----------------------------------------------
