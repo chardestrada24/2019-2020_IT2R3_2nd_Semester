@@ -10,7 +10,12 @@ git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
 
 git add *
+
 git status
+
 git commit -m 'My First Commit'
+
 git status
+
 git push origin master
+
