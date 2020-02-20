@@ -4,7 +4,7 @@ body {
 }
 /* Header Section */
 header {
-    background: #6b0009;
+    
 }
 img{
     width: 100%;
@@ -29,14 +29,14 @@ nav {
 }
 nav a {
     text-decoration: none;
-    color: #ffffff;
+    color: #8c000c;
     text-transform: uppercase;
     margin-left: 17px;
     font-size: 20px;
     padding: 16px 26px;
 }
 nav a:hover {
-    background: #e43228;
+    color: #ff0016;
     border-radius: 13px;
 }
 section.banner-section {
@@ -50,15 +50,13 @@ section.banner-section h1 {
     text-align: center;
     font-size: 118px;
     text-transform: uppercase;
-    border: 1px solid #ffffff80;
-    background: #141a2a4a;
     color: #fff;
     padding: 70px 12px;
 }
 /* About Section */
 section.about-section {
     padding: 7px 0 208px;
-    background: #ab7c8014;
+    border-bottom: 1px solid #d2cfcf;
 }
 h2.title {
     text-align: center;
