@@ -3,8 +3,11 @@ body {
     font-family: 'Raleway', sans-serif;
 }
 /* Header Section */
-header {
-    
+.banner-content{
+    text-align: center;
+}
+a{
+    text-decoration:none;
 }
 img{
     width: 100%;
@@ -44,7 +47,7 @@ section.banner-section {
     padding: 136px;
     background-repeat: no-repeat;
     background-attachment: scroll;
-    background-position: bottom;
+    background-size: cover;
 }
 section.banner-section h1 {
     text-align: center;
